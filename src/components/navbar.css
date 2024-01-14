@@ -24,15 +24,18 @@
 .nav__name{
     color: var(--title-color);
     font-size: 24px;
+    
 }
 
 .nav__name{
     font-weight: var(--weight-500);
+    
 }
 
 .active-nav .nav__icon,
 .active-nav .nav__name{
     color: var(--first-color);
+    
 }
 
 .nav__toggle{
@@ -82,6 +85,7 @@
         right: 30px;
         display: flex;
         align-items: center;
+        /* margin-bottom: 20px; */
         
     }
     .nav__item{
@@ -96,12 +100,16 @@
         height: 50px;
         border-radius: 50%;
         position: relative;
+        margin-bottom: 20px;
+        /* added margin-bottom 20px */
 
     
     }
     .nav__icon{
         font-size: 20px;
         margin-inline:auto;
+        /* margin-bottom: 20px;
+        margin-top: 20px; */
 
     }
 
@@ -121,6 +129,9 @@
         visibility: hidden;
         z-index: -1;
         transition: all 0.3s ease;
+        
+        
+        
 
 
     }

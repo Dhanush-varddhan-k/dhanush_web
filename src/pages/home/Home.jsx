@@ -1,9 +1,13 @@
 import React from 'react'
+import Profile from "../../assets/home.jpg"
 
+import { link } from 'react-router-dom'
 const Home = () => {
   return (
     <div>
-     Homeeeee
+     <section className="home section grid">
+      
+     </section>
     </div>
   )
 }

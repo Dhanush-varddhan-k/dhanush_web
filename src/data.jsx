@@ -27,6 +27,9 @@ import Theme8 from './assets/orange.png';
 import Theme9 from './assets/green.png';
 import Theme10 from './assets/yellow.png';
 
+
+import bootstrap_img from './assets/bootstrap.png'
+
 export const links = [
   {
     id: 1,
@@ -61,25 +64,25 @@ export const personalInfo = [
   {
     id: 1,
     title: 'First Name : ',
-    description: 'Steve',
+    description: 'Dhanush',
   },
 
   {
     id: 2,
     title: 'Last Name : ',
-    description: 'Milner',
+    description: 'varddhan',
   },
 
   {
     id: 3,
     title: 'Age : ',
-    description: '27 Years',
+    description: '21 Years',
   },
 
   {
     id: 4,
     title: 'Nationality : ',
-    description: 'Tunisian',
+    description: 'Indian',
   },
 
   {
@@ -91,7 +94,7 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'Tunis',
+    description: 'India',
   },
 
   {
@@ -103,7 +106,7 @@ export const personalInfo = [
   {
     id: 8,
     title: 'Email : ',
-    description: 'you@mail.com',
+    description: 'dhanush21110456@snuchennai.edu.in',
   },
 
   {
@@ -115,7 +118,7 @@ export const personalInfo = [
   {
     id: 10,
     title: 'Langages : ',
-    description: 'French, English',
+    description: 'Telugu,Tamil, English, Hindi',
   },
 ];
 

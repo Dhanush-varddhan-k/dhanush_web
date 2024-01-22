@@ -80,7 +80,7 @@ const Themes = () => {
             }
         </div>
         <div className="style__switcher-close"
-        onClick={()=>setShowSwitcher (!showSwitcher)}
+onClick={()=>setShowSwitcher (!showSwitcher)}
         >
             &times;
         </div>

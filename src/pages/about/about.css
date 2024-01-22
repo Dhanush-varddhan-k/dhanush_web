@@ -3,6 +3,7 @@
 .stats
 {
     grid-template-columns: repeat(2, 1fr);
+    align-items: flex-start;
 }
 
 .info__list{
@@ -79,4 +80,20 @@
 .CircularProgressbar-path {
   stroke: var(--first-color) !important;
   stroke-linecap: butt !important;
+}
+
+.CircularProgressbar-trail{
+    stroke: var(--container-color) !important;
+}
+
+.CircularProgressbar-text{
+    fill: var(--title-color) !important;
+}
+
+.skills__title{
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    font-weight: var(--weight-400);
+    text-align: center;
+    margin-top: 24px;
 }

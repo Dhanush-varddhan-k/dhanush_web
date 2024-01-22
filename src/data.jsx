@@ -29,6 +29,13 @@ import Theme10 from './assets/yellow.png';
 
 
 import bootstrap_img from './assets/bootstrap.png'
+import javascript_img from './assets/Javascript.png'
+import css_img from './assets/css.png'
+import php_img from './assets/php.png'
+import wordpress_img from './assets/wordpress.png'
+import jquery_img from './assets/jquery.png'
+import angular_img from './assets/angular.png'
+import react_img from './assets/reactt.png'
 
 export const links = [
   {
@@ -100,7 +107,7 @@ export const personalInfo = [
   {
     id: 7,
     title: 'Phone : ',
-    description: '+21621184010',
+    description: '+91 6381562738',
   },
 
   {
@@ -109,11 +116,11 @@ export const personalInfo = [
     description: 'dhanush21110456@snuchennai.edu.in',
   },
 
-  {
-    id: 9,
-    title: 'Skype : ',
-    description: 'steve.milner',
-  },
+  // {
+  //   id: 9,
+  //   title: 'Skype : ',
+  //   description: 'steve.milner',
+  // },
 
   {
     id: 10,
@@ -125,21 +132,21 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '12+',
-    title: 'Years of <br /> Experience',
+    no: 'Bachelor`s degree',
+    title: 'Shiv Nadar University Chennai',
   },
 
-  {
-    id: 2,
-    no: '97+',
-    title: 'Completed <br /> Projects',
-  },
+  // {
+  //   id: 2,
+  //   no: '97+',
+  //   title: 'Completed <br /> Projects',
+  // },
 
-  {
-    id: 3,
-    no: '81+',
-    title: 'Happy <br /> Customers',
-  },
+  // {
+  //   id: 3,
+  //   no: '81+',
+  //   title: 'Happy <br /> Customers',
+  // },
 
   {
     id: 4,

@@ -21,7 +21,7 @@ const About = () => {
               <Info/>
             </ul>
             <a href={CV} download='' className="button">
-              Download cv
+              Download Cv
               <span className='button__icon'>
                 <FaDownload/>
               </span>
@@ -30,17 +30,22 @@ const About = () => {
           <div className="stats grid">
             <Stats/>
           </div>
-
-
         </div>
       </section>
+
       <div className="seperator"></div>
+
+
       <section className="skills">
         <h3 className="section__subtitle subtitle__center">My Skills</h3>
         <div className="skills__container grid">
           <Skills/>
         </div>
       </section>
+
+      <div className="seperator"></div>
+
+
     </main>
   )
 }

@@ -28,14 +28,7 @@ import Theme9 from './assets/green.png';
 import Theme10 from './assets/yellow.png';
 
 
-import bootstrap_img from './assets/bootstrap.png'
-import javascript_img from './assets/Javascript.png'
-import css_img from './assets/css.png'
-import php_img from './assets/php.png'
-import wordpress_img from './assets/wordpress.png'
-import jquery_img from './assets/jquery.png'
-import angular_img from './assets/angular.png'
-import react_img from './assets/reactt.png'
+
 
 export const links = [
   {

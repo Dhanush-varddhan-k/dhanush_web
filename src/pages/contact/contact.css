@@ -1,5 +1,8 @@
 .contact__container{
     grid-template-columns: 4fr 8fr;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
 }
 .contact__title{
     font-size: var(--h3-font-size);
@@ -65,7 +68,7 @@
 }
 
 .form__input-div{
-    margin: 30px;
+    margin-bottom: 30px;
     background-color: var(--container-color);
     width: 100%;
     border-radius: 30px;
@@ -84,6 +87,7 @@
     border-radius: 30px;
     font-size: var(--small-font-size);
     transition: all 0.3s ease;
+    
 
 }
 

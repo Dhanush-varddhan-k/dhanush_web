@@ -52,37 +52,29 @@ const Contact = () => {
             </a>
           </div>
         </div>
-        <form className="contact__form">
+        {/* <form className="contact__form">
           <div className="form__input-group">
-
             <div className="form__input-div">
               <input type="text" placeholder='Your Name' className="from__control" />  
             </div>
             <div className="form__input-div">
               <input type="email" placeholder='Your Email' className="from__control" />
-            </div>
+            </div>  
             <div className="form__input-div">
-              <input type="text" placeholder='Your Subject' className="from__control" />
-            </div>
-            
-
-
-
+              <input type="text" placeholder='Subject' className="from__control" />
+            </div>          
           </div>
-
           <div className="form__input-div">
               <textarea placeholder='Your Message' className="form__control textarea">
-
               </textarea>
-          </div>
-          <button className="button">
-            Send Message
-            <span className="button__icon contact__button-icon">
-              <FiSend/>
-            </span>
-          </button>
-
-        </form>
+            </div>
+             <button className="button">
+               Send Message
+               <span className="button__icon contact__button-icon">
+                 <FiSend/>
+               </span>
+            </button>
+        </form> */}
       </div>
 
     </section>

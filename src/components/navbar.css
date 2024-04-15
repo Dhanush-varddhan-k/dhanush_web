@@ -86,6 +86,7 @@
     }
 
     .nav__toggle{
+        display: none;
     }
 
     .nav{
@@ -131,11 +132,11 @@
     .nav__name{
         position: absolute;
         top: 0;
-        right: 0;
+        right: 100%;
         background-color: var(--first-color);
         height: 100%;
         line-height: 50px;
-        padding: 20px 25px; 
+        padding-inline: 20px 25px; 
         /* 30 px to 20px */
         border-radius: 30px;
         font-size: var(--small-font-size);

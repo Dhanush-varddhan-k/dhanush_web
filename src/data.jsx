@@ -42,7 +42,7 @@ import mys from './assets/mysql.png'
 import pos from './assets/postman3.png'
 import git from './assets/github.png'
 import fig from './assets/figma2.png'
-
+import c from './assets/c++.png'
 export const skills = [
   {
     id: 1,
@@ -141,12 +141,12 @@ export const skills = [
     percentage: '90',
     image:fig,
   },
-  // {
-  //   id: 16,
-  //   title: 'C, C++',
-  //   percentage: '90',
-  //   image:
-  // },
+  {
+    id: 16,
+    title: 'C, C++',
+    percentage: '90',
+    image:c,
+  },
   // {
   //   id: 17,
   //   title: 'Python',

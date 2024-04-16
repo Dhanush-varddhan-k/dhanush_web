@@ -20,7 +20,7 @@ const Skills = () => {
 
             </div> */}
             <div>
-              <img src={image} alt={title} style={{ width: 100, height: 100 }} />
+              <img src={image} alt={title} style={{ width: 120, height: 120 }} />
               <h3 className="skills__title">{title}</h3>
 
             </div>

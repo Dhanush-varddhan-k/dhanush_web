@@ -34,7 +34,7 @@ import js from './assets/javascript.png'
 import cs from './assets/css.png'
 import jq from './assets/jquery.png'
 import ag from './assets/angular.png'
-import r from './assets/react.png'
+import r from './assets/react2.png'
 import cv from './assets/opencv.png'
 
 export const skills = [

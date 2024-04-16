@@ -37,7 +37,7 @@ import ag from './assets/angular.png'
 import r from './assets/react2.png'
 import cv from './assets/opencv.png'
 import tw from './assets/TailwindCSS.png'
-import mn from './assets/mongo.png'
+import mn from './assets/mongodbicon.png'
 
 export const skills = [
   {

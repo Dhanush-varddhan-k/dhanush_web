@@ -29,6 +29,124 @@ import Theme10 from './assets/yellow.png';
 
 import no from './assets/node.png'
 import wp from './assets/Wordpress.png'
+import ht from './assets/html.png'
+import js from './assets/javascript.png'
+import cs from './assets/css.png'
+import jq from './assets/jquery.png'
+import ag from './assets/angular.png'
+
+export const skills = [
+  {
+    id: 1,
+    title: 'Html',
+    percentage: '90',
+    image:ht,
+  },
+
+  {
+    id: 2,
+    title: 'Javascript',
+    percentage: '89',
+    image:js,
+  },
+
+  {
+    id: 3,
+    title: 'Css',
+    percentage: '70',
+    image:cs,
+  },
+
+  {
+    id: 4,
+    title: 'Node',
+    percentage: '80',
+    image:no,
+  },
+
+  {
+    id: 5,
+    title: 'Wordpress',
+    percentage: '95',
+    image:wp,
+  },
+
+  {
+    id: 6,
+    title: 'Jquery',
+    percentage: '90',
+    image:jq,
+  },
+
+  {
+    id: 7,
+    title: 'Angular',
+    percentage: '90',
+    image:ag,
+  },
+
+  // {
+  //   id: 8,
+  //   title: 'React',
+  //   percentage: '45',
+  //   image:
+  // },
+  // {
+  //   id: 9,
+  //   title: 'Open CV',
+  //   percentage: '60',
+  //   image:
+  // },
+  // {
+  //   id: 10,
+  //   title: 'Tailwind css',
+  //   percentage: '80',
+  //   image:
+  // },
+  // {
+  //   id: 11,
+  //   title: 'Mongo DB',
+  //   percentage: '80',
+  //   image:
+  // },
+  // {
+  //   id: 12,
+  //   title: 'MySQL',
+  //   percentage: '90',
+  //   image:
+  // },
+  // {
+  //   id: 13,
+  //   title: 'Postman',
+  //   percentage: '90',
+  //   image:
+  // },
+  // {
+  //   id: 14,
+  //   title: 'Git/Github',
+  //   percentage: '90',
+  //   image:
+  // },
+  // {
+  //   id: 15,
+  //   title: 'Figma',
+  //   percentage: '90',
+  //   image:
+  // },
+  // {
+  //   id: 16,
+  //   title: 'C, C++',
+  //   percentage: '90',
+  //   image:
+  // },
+  // {
+  //   id: 17,
+  //   title: 'Python',
+  //   percentage: '90',
+  //   image:
+  // },
+];
+
 
 export const links = [
   {
@@ -146,103 +264,6 @@ export const stats = [
 
 export const resume = [
   
-];
-
-export const skills = [
-  // {
-  //   id: 1,
-  //   title: 'Html',
-  //   percentage: '90',
-  // },
-
-  // {
-  //   id: 2,
-  //   title: 'Javascript',
-  //   percentage: '89',
-  // },
-
-  // {
-  //   id: 3,
-  //   title: 'Css',
-  //   percentage: '70',
-  // },
-
-  {
-    id: 4,
-    title: 'Node',
-    percentage: '80',
-    image:no,
-  },
-
-  {
-    id: 5,
-    title: 'Wordpress',
-    percentage: '95',
-    image:wp,
-  },
-
-  // {
-  //   id: 6,
-  //   title: 'Jquery',
-  //   percentage: '90',
-  // },
-
-  // {
-  //   id: 7,
-  //   title: 'Angular',
-  //   percentage: '90',
-  // },
-
-  // {
-  //   id: 8,
-  //   title: 'React',
-  //   percentage: '45',
-  // },
-  // {
-  //   id: 9,
-  //   title: 'Open CV',
-  //   percentage: '60',
-  // },
-  // {
-  //   id: 10,
-  //   title: 'Tailwind css',
-  //   percentage: '80',
-  // },
-  // {
-  //   id: 11,
-  //   title: 'Mongo DB',
-  //   percentage: '80',
-  // },
-  // {
-  //   id: 12,
-  //   title: 'MySQL',
-  //   percentage: '90',
-  // },
-  // {
-  //   id: 13,
-  //   title: 'Postman',
-  //   percentage: '90',
-  // },
-  // {
-  //   id: 14,
-  //   title: 'Git/Github',
-  //   percentage: '90',
-  // },
-  // {
-  //   id: 15,
-  //   title: 'Figma',
-  //   percentage: '90',
-  // },
-  // {
-  //   id: 16,
-  //   title: 'C, C++',
-  //   percentage: '90',
-  // },
-  // {
-  //   id: 17,
-  //   title: 'Python',
-  //   percentage: '90',
-  // },
 ];
 
 export const portfolio = [

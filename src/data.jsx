@@ -41,7 +41,7 @@ import mn from './assets/mongodbicon.png'
 import mys from './assets/mysql.png'
 import pos from './assets/postman3.png'
 import git from './assets/github.png'
-import fig from './assets/figma.png'
+import fig from './assets/figma2.png'
 
 export const skills = [
   {

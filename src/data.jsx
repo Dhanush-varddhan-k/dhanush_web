@@ -34,6 +34,8 @@ import js from './assets/javascript.png'
 import cs from './assets/css.png'
 import jq from './assets/jquery.png'
 import ag from './assets/angular.png'
+import r from './assets/react.png'
+import cv from './assets/opencv.png'
 
 export const skills = [
   {
@@ -85,18 +87,18 @@ export const skills = [
     image:ag,
   },
 
-  // {
-  //   id: 8,
-  //   title: 'React',
-  //   percentage: '45',
-  //   image:
-  // },
-  // {
-  //   id: 9,
-  //   title: 'Open CV',
-  //   percentage: '60',
-  //   image:
-  // },
+  {
+    id: 8,
+    title: 'React',
+    percentage: '45',
+    image:r,
+  },
+  {
+    id: 9,
+    title: 'Open CV',
+    percentage: '60',
+    image:cv,
+  },
   // {
   //   id: 10,
   //   title: 'Tailwind css',

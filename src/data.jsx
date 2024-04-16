@@ -37,6 +37,7 @@ import ag from './assets/angular.png'
 import r from './assets/react2.png'
 import cv from './assets/opencv.png'
 import tw from './assets/TailwindCSS.png'
+import mn from './assets/mongo.png'
 
 export const skills = [
   {
@@ -106,12 +107,12 @@ export const skills = [
     percentage: '80',
     image:tw,
   },
-  // {
-  //   id: 11,
-  //   title: 'Mongo DB',
-  //   percentage: '80',
-  //   image:
-  // },
+  {
+    id: 11,
+    title: 'Mongo DB',
+    percentage: '80',
+    image:mn,
+  },
   // {
   //   id: 12,
   //   title: 'MySQL',

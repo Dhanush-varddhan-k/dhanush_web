@@ -27,7 +27,7 @@ import Theme8 from './assets/orange.png';
 import Theme9 from './assets/green.png';
 import Theme10 from './assets/yellow.png';
 
-import no from './assets/node.png'
+import no from './assets/node2.png'
 import wp from './assets/Wordpress.png'
 import ht from './assets/html.png'
 import js from './assets/javascript.png'

@@ -12,13 +12,12 @@ const Home = () => {
         <div className="home__data">
           <h1 className="home__title">
             <span>
-            I am Dhanush.  
+            I am Dhanush. 
             </span>         
-              web designer  
+              web developer 
           </h1>
           <p className="home__description">
-            I am focused in developing clean and neat website. I love developing 3d website.
-            bla bla........
+            Good at building your digital front door with elegance and efficiency. Code artist and functionality craftsman.
           </p>
           <Link to='/about' className='button'>
             More about me{' '}

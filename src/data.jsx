@@ -38,6 +38,7 @@ import r from './assets/react2.png'
 import cv from './assets/opencv.png'
 import tw from './assets/TailwindCSS.png'
 import mn from './assets/mongodbicon.png'
+import mys from './assets/mysql.png'
 
 export const skills = [
   {
@@ -113,12 +114,12 @@ export const skills = [
     percentage: '80',
     image:mn,
   },
-  // {
-  //   id: 12,
-  //   title: 'MySQL',
-  //   percentage: '90',
-  //   image:
-  // },
+  {
+    id: 12,
+    title: 'MySQL',
+    percentage: '90',
+    image:mys,
+  },
   // {
   //   id: 13,
   //   title: 'Postman',

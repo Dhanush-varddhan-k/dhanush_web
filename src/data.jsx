@@ -36,6 +36,7 @@ import jq from './assets/jquery.png'
 import ag from './assets/angular.png'
 import r from './assets/react2.png'
 import cv from './assets/opencv.png'
+import tw from './assets/TailwindCSS.png'
 
 export const skills = [
   {
@@ -99,12 +100,12 @@ export const skills = [
     percentage: '60',
     image:cv,
   },
-  // {
-  //   id: 10,
-  //   title: 'Tailwind css',
-  //   percentage: '80',
-  //   image:
-  // },
+  {
+    id: 10,
+    title: 'Tailwind css',
+    percentage: '80',
+    image:tw,
+  },
   // {
   //   id: 11,
   //   title: 'Mongo DB',

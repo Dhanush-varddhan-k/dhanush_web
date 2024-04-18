@@ -28,7 +28,7 @@ import Theme9 from './assets/green.png';
 import Theme10 from './assets/yellow.png';
 
 import no from './assets/node2.png'
-import wp from './assets/Wordpress.png'
+
 import ht from './assets/html.png'
 import js from './assets/javascript.png'
 import cs from './assets/css.png'
@@ -72,12 +72,12 @@ export const skills = [
     image:no,
   },
 
-  {
-    id: 5,
-    title: 'Wordpress',
-    percentage: '95',
-    image:wp,
-  },
+  // {
+  //   id: 5,
+  //   title: 'Wordpress',
+  //   percentage: '95',
+  //   image:wp,
+  // },
 
   {
     id: 6,

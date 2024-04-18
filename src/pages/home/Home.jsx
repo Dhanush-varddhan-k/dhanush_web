@@ -3,11 +3,17 @@ import Profile from "../../assets/home.jpg"
 import { Link } from 'react-router-dom'; // Note the corrected import
 import { FaArrowRight } from "react-icons/fa";
 import "./home.css"
+import { Tilt } from "react-tilt";
 const Home = () => {
   return (
     <div>
      <section className="home section grid">
-       <img src={Profile} alt="" className='home__img' />
+     <Tilt>
+     <img src={Profile} alt="" className='home__img' />
+     </Tilt>
+      
+      
+       
        <div className="home__content">
         <div className="home__data">
           <h1 className="home__title">

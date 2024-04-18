@@ -12,7 +12,7 @@ const Skills = () => {
         <div key={index}>
             <div>
                 <Tilt>
-                <img src={image} alt={title} style={{ width: 120, height: 120, }} />
+                <img src={image} alt={title} style={{ width: 120, height: 120, boxShadow: "5px 5px 15px rgba(0,0,0,0.2)"  }} />
                 <h3 className="skills__title">{title}</h3>
                 </Tilt>
                 

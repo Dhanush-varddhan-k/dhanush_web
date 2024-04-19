@@ -286,22 +286,22 @@ export const portfolio = [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Photo',
+        desc: 'Cycle Management',
       },
-      {
-        icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
-      },
+      // {
+      //   icon: <FiUser />,
+      //   title: 'Client : ',
+      //   desc: 'Dribble',
+      // },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Adobe Photoshop',
+        desc: 'Flutter (Dart),  ',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'https://github.com/Dhanush-varddhan-k/gesture-control-using-ardiuno-uno.git',
       },
     ],
   },
@@ -309,27 +309,23 @@ export const portfolio = [
   {
     id: 2,
     img: Work2,
-    title: 'Website Design',
+    title: 'Ecommerce',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Website',
+        desc: 'Ecommerce Website',
       },
-      {
-        icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
-      },
+    
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'React JS',
+        desc: 'Angular, Flask',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'https://github.com/Dhanush-varddhan-k/Tata_3.git',
       },
     ],
   },
@@ -337,23 +333,15 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'Video Editing',
+    title: 'Gesture controller',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Video',
+        desc: 'Gesture controller',
       },
-      {
-        icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
-      },
-      {
-        icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'Adobe Premium',
-      },
+     
+    
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',

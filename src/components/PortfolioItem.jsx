@@ -79,8 +79,8 @@ const PortfolioItem = ({ img, title, details }) => {
                                         <div>
                                             <span className="item__title">{title}</span>
                                             {isPreview ? (
-                                                <a href={`http://${desc}`} target="_blank" rel="noopener noreferrer" className="item__details">
-                                                    {desc}
+                                                <a href={`${desc}`} target="_blank" rel="noopener noreferrer" className="item__details">
+                                                    Git
                                                 </a>
                                             ) : (
                                                 <span className="item__details">{desc}</span>

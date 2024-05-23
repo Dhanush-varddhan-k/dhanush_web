@@ -320,12 +320,12 @@ export const portfolio = [
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'Angular, Flask',
+        desc: 'MongoDB','Express js', 'React js', 'Node js',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'https://github.com/Dhanush-varddhan-k/Tata_3.git',
+        desc: 'https://github.com/Dhanush-varddhan-k/MERN_ECOMMERCE.git',
       },
     ],
   },

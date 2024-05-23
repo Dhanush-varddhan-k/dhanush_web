@@ -345,7 +345,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'https://github.com/Dhanush-varddhan-k/gesture-control-using-ardiuno-uno.git',
       },
     ],
   },

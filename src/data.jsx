@@ -301,7 +301,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'https://github.com/Dhanush-varddhan-k/gesture-control-using-ardiuno-uno.git',
+        desc: 'https://github.com/saikrishy3808u3qr3pur3q/Cycle-Management-Sysytem.git',
       },
     ],
   },

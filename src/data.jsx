@@ -331,6 +331,26 @@ export const portfolio = [
     ],
   },
 
+    {
+    id: 3,
+    img: Work3,
+    title: 'Gesture controller',
+    details: [
+      {
+        icon: <FiFileText />,
+        title: 'Project : ',
+        desc: 'Gesture controller',
+      },
+     
+    
+      {
+        icon: <FiExternalLink />,
+        title: 'Preview : ',
+        desc: 'https://github.com/Dhanush-varddhan-k/gesture-control-using-ardiuno-uno.git',
+      },
+    ],
+  },
+
 
 
 

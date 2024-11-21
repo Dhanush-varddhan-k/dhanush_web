@@ -351,6 +351,26 @@ export const portfolio = [
     ],
   },
 
+  {
+    id: 4,
+    img: Work4,
+    title: 'Product manager',
+    details: [
+      {
+        icon: <FiFileText />,
+        title: 'Project : ',
+        desc: 'Robust Product Management System',
+      },
+     
+    
+      {
+        icon: <FiExternalLink />,
+        title: 'Preview : ',
+        desc: 'https://github.com/Dhanush-varddhan-k/zocket.git',
+      },
+    ],
+  },
+
 
   
 ];

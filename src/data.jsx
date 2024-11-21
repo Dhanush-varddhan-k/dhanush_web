@@ -12,6 +12,7 @@ import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 import Work1 from './assets/cycle_image.png';
 import Work2 from './assets/ecommerce.png';
 import Work3 from './assets/ultra_sonic.png';
+import work4 from './assets/flowchart.jpeg';
 
 
 
@@ -346,6 +347,27 @@ export const portfolio = [
         icon: <FiExternalLink />,
         title: 'Preview : ',
         desc: 'https://github.com/Dhanush-varddhan-k/gesture-control-using-ardiuno-uno.git',
+      },
+    ],
+  },
+
+
+  {
+    id: 4,
+    img: Work4,
+    title: 'Robust Product Management System',
+    details: [
+      {
+        icon: <FiFileText />,
+        title: 'Project : ',
+        desc: 'Product management system',
+      },
+     
+    
+      {
+        icon: <FiExternalLink />,
+        title: 'Preview : ',
+        desc: 'https://github.com/Dhanush-varddhan-k/zocket.git',
       },
     ],
   },
